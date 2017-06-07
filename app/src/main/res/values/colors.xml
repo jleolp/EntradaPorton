@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="background_color">#3621ad</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white_greyish">#EEEEEE</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+    <color name="button_1">#2c88ef</color>
+    <color name="button_2">#e85025</color>
+    <color name="button_3">#018c17</color>
+    <color name="button_4">#5e3bb9</color>
+    <color name="enviar">#b91c47</color>
+    <color name="colorProd">#2E2E2E</color>
+
+
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="listItem1">#ffffff</color>
+    <color name="listItem2">#e8eefe</color>
+    <color name="listItemSelected">#3F51B5</color>
+    <color name="seleccionado">#FF0000</color>
+    <color name="fondocli">#BFBFBF</color>
+    <color name="backgound_inicial">#bfbfbf</color>
+</resources>

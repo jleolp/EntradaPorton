@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EntradaPorton</string>
+    <!-- STRING CONTACT -->
+    <string name="Correo">Correo:</string>
+    <string name="Pagina">Pagina Web</string>
+    <string name="PagWeb">www.molgrupo.com.ve</string>
+    <string name="Telefonos">Telefonos: </string>
+    <string name="direccion">Direccion:</string>
+    <!-- STRING CONTACT END-->
+    <!-- STRING LOGIN -->
+    <string name="Usuario">Usuario:</string>
+    <string name="Password">Password:</string>
+    <string name="Login">LOGIN</string>
+    <string name="Enviar">Enviar</string>
+    <string name="molgrupo">ISPWEBS</string>
+    <string name="power_by">power by:</string>
+    <!-- STRING LOGIN END -->
+
+
+    <!-- STRING AVISOS -->
+    <string name="Invalida_Local">Clave o Usuario Local Invalida</string>
+    <string name="No_conexion">Clave o Usuario Local Invalida</string>
+    <!-- STRING AVISOS END -->
+</resources>
